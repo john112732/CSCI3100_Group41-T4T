@@ -2,7 +2,7 @@
 ## For CUHK 2019-2020 Spring CSCI3100 Group41 Project Coding Part
 This is the coding section of Group 41's project - ThingForThing (T4T).
 
-##Background of our idea
+## Background of our idea
 In this era, technologies are developed quickly. Online trading platform is getting popular these days.
 However, we wonder whether it is compulsory to trade with money. By integrating social responsibilities
 considerations, we designed this platform for both trades with money and with items.
@@ -12,7 +12,7 @@ attained. We also wish to make contribution to environmental protection by worki
 of environmental management. Lastly, we aim to stimulate consumptions of the society by publishing "no
 money" shopping mode.
 
-##Implementation
+## Implementation
 In this project, our group decided to use C language for implementation.
 For stage 2 - Initial Code, please check the file "Group 41 Project Initial Code.c".
 
