@@ -16,9 +16,10 @@ money" shopping mode.
 In this project, our group decided to use C language for implementation.
 For stage 2 - Initial Code, please check the file "Group 41 Project Initial Code.c".
 
-Group 41 (ThingForThing T4T):
-YAU, Tsun Hin 1155109318
-WONG, Yik Lee 1155108532
-TAM, Siu Chi  1155110781
-MA, Hoi Ching 1155103921
+## Contributors
+**Group 41 (ThingForThing T4T):**<br/>
+YAU, Tsun Hin 1155109318<br/>
+WONG, Yik Lee 1155108532<br/>
+TAM, Siu Chi  1155110781<br/>
+MA, Hoi Ching 1155103921<br/>
 WAN, Ka Fung  1155116316
