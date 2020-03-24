@@ -16,6 +16,13 @@ money" shopping mode.
 In this project, our group decided to use C language for implementation.
 For stage 2 - Initial Code, please check the file "Group 41 Project Initial Code.c".
 
+## Key Dates
+Phase 1 (Due on 13/3/2020) : Project Design Document
+Phase 2 (Due on 27/3/2020) : Inital Code
+Phase 3 (Due on 23/4/2020) : Completed Code
+Phase 4 (Due on 24/4/2020) : Project Demonstration
+Phase 5 (Due on 17/5/2020) : Final Report and Commented Code
+
 ## Contributors
 **Group 41 (ThingForThing T4T):**<br/>
 YAU, Tsun Hin 1155109318<br/>
