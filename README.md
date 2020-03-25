@@ -13,8 +13,8 @@ of environmental management. Lastly, we aim to stimulate consumptions of the soc
 money" shopping mode.
 
 ## Implementation
-In this project, our group decided to use C language for implementation.
-For stage 2 - Initial Code, please check the file "Group 41 Project Initial Code.c".
+In this project, our group decided to use C language for implementation.<br/>
+For stage 2 - Initial Code, we are using mySQL and PHP to implement the application.
 
 ## Key Dates
 Phase 1 (Due on 13/3/2020) : Project Design Document<br/>
